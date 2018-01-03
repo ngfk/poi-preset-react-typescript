@@ -23,6 +23,10 @@
         "ts-loader": "^3.2.0"
     },
     "devDependencies": {
+        "@types/react": "^16.0.33",
+        "@types/react-dom": "^16.0.3",
+        "@types/react-hot-loader": "^3.0.5",
+        "@types/webpack-env": "^1.13.3",
         "commitizen": "^2.9.6",
         "cz-customizable": "^5.2.0",
         "prettier": "^1.9.2",
