@@ -1,1 +1,1 @@
-# poi-react-typescript
+# poi-preset-react-typescript
