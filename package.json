@@ -1,0 +1,34 @@
+{
+    "name": "@ngfk/poi-react-typescript",
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "format": "prettier --write --config config/prettier.config.js --ignore-path config/.prettierignore **/*.{js,json,md}",
+        "cz": "git-cz"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ngfk/poi-react-typescript.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ngfk/poi-react-typescript/issues"
+    },
+    "homepage": "https://github.com/ngfk/poi-react-typescript#readme",
+    "devDependencies": {
+        "commitizen": "^2.9.6",
+        "cz-customizable": "^5.2.0",
+        "prettier": "^1.9.2"
+    },
+    "config": {
+        "commitizen": {
+            "path": "./node_modules/cz-customizable"
+        },
+        "cz-customizable": {
+            "config": "./config/cz-config.js"
+        }
+    }
+}
