@@ -19,7 +19,10 @@
         "typescript",
         "hot-module-loader"
     ],
-    "author": "",
+    "author": {
+        "name": "NGF Koster",
+        "email": "ngf.koster@outlook.com"
+    },
     "license": "ISC",
     "bugs": {
         "url": "https://github.com/ngfk/poi-preset-react-typescript/issues"
