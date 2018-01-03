@@ -1,6 +1,6 @@
 {
     "name": "@ngfk/poi-preset-react-typescript",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Poi preset for react with typescript and hot reloading",
     "main": "index.js",
     "scripts": {
