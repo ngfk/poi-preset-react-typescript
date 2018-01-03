@@ -40,5 +40,8 @@
         "cz-customizable": {
             "config": "./config/cz-config.js"
         }
-    }
+    },
+    "files": [
+        "index.js"
+    ]
 }
