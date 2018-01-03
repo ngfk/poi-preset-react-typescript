@@ -1,7 +1,7 @@
 {
     "name": "@ngfk/poi-preset-react-typescript",
     "version": "0.0.2",
-    "description": "",
+    "description": "Poi preset for react with typescript and hot reloading",
     "main": "index.js",
     "scripts": {
         "format": "prettier --write --config config/prettier.config.js --ignore-path config/.prettierignore **/*.{js,json,md}",
@@ -11,7 +11,14 @@
         "type": "git",
         "url": "git+https://github.com/ngfk/poi-preset-react-typescript.git"
     },
-    "keywords": [],
+    "keywords": [
+        "poi",
+        "preset",
+        "webpack",
+        "react",
+        "typescript",
+        "hot-module-loader"
+    ],
     "author": "",
     "license": "ISC",
     "bugs": {
