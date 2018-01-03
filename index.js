@@ -14,8 +14,6 @@ module.exports = ({ tsLoaderOptions } = {}) => poi => {
                 Object.assign({ appendTsSuffixTo: [/\.vue$/] }, tsLoaderOptions)
             );
 
-        console.log(config.module.rules.store.get('typescript'));
-
         config.module
             .rule('vue')
             .use('vue-loader')
