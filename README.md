@@ -23,7 +23,6 @@ Combines:
 
 ```js
 // poi.config.js
-
 module.exports = {
     presets: [require('@ngfk/poi-preset-react-typescript')()]
 };
