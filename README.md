@@ -16,8 +16,8 @@ $ npm i -D @ngfk/poi-preset-react-typescript
 
 Combines:
 
-* [poi-preset-react](https://github.com/egoist/poi/tree/master/packages/poi-preset-react)
-* [poi-preset-typescript](https://github.com/egoist/poi/tree/master/packages/poi-preset-typescript)
+* [poi-preset-react](https://github.com/egoist/poi/tree/v9.2.0/packages/poi-preset-react)
+* [poi-preset-typescript](https://github.com/egoist/poi/tree/v9.2.0/packages/poi-preset-typescript)
 
 ## Usage
 
